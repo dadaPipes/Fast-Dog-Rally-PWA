@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Fast-Dog-Rally-PWA.props" />
+</Project>
