@@ -1,7 +1,7 @@
 {
   "name": "Fast-Dog-Rally-PWA",
   "short_name": "Fast-Dog-Rally-PWA",
-  "id": "./",
+  "id": "Fast Dog Rally",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
